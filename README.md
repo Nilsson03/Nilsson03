@@ -11,9 +11,9 @@
 
 ## 📫 Контакты
 
-**📱 Telegram** [@nilsson03](https://t.me/nilsson03)
-**📧 Mail.ru**  [nilsson_nicholas@mail.ru](mailto:nilsson_nicholas@mail.ru)
-**🎮 Discord**  `@nilsson03`              
+| **📱 Telegram** [@nilsson03](https://t.me/nilsson03) |
+| **📧 Mail.ru**  [nilsson_nicholas@mail.ru](mailto:nilsson_nicholas@mail.ru) |
+| **🎮 Discord**  `@nilsson03`               |
 
 ## 📊 Статистика GitHub
 <div align="center">
