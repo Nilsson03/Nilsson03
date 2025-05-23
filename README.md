@@ -13,8 +13,4 @@
 ## 📫 Контакты
 **📱 Telegram**: [@nilsson03](https://t.me/nilsson03)  
 **📧 Mail.ru**: [nilsson_nicholas@mail.ru](mailto:nilsson_nicholas@mail.ru)  
-**🎮 Discord**: `@nilsson03`        
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nilsson03&color=blue&style=flat" alt="Просмотры профиля">
-</p>
+**🎮 Discord**: `@nilsson03`       
