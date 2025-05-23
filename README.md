@@ -12,5 +12,5 @@
 
 ## 📫 Контакты
 **📱 Telegram**: [@nilsson03](https://t.me/nilsson03)  
-**📧 Mail.ru**: [nilsson_nicholas@mail.ru](mailto:nilsson_nicholas@mail.ru)  
+**📧 Mail**: [nilsson_nicholas@mail.ru](mailto:nilsson_nicholas@mail.ru)  
 **🎮 Discord**: `@nilsson03`       
