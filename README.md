@@ -12,8 +12,8 @@
 ## 📫 Контакты
 | Соцсеть       | Ссылка                          |
 |---------------|---------------------------------|
-| **📱 Telegram** | [@ваш_ник](https://t.me/nilsson03) |
-| **📧 Mail.ru**  | [ваша_почта@mail.ru](mailto:nilsson_nicholas@mail.ru) |
+| **📱 Telegram** | [@nilsson03](https://t.me/nilsson03) |
+| **📧 Mail.ru**  | [nilsson_nicholas@mail.ru](mailto:nilsson_nicholas@mail.ru) |
 | **🎮 Discord**  | `@nilsson03`                 |
 
 ## 📊 Статистика GitHub
