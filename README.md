@@ -1,7 +1,7 @@
 # Привет, меня зовут Nilsson! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" alt="Coding Gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNuMHM2d3RxOHRpYnpxYjJ1NzloaDNoZDRqcTVweXNxcnE0eTExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="400" alt="Coding Gif">
 </p>
 
 ## 🛠️ Мой стек технологий
