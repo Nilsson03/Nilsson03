@@ -1,7 +1,7 @@
 # Привет, меня зовут Nilsson! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk5a3VnOWZ6eGJ3Z3R0dWJ2dGJtM2VlZ2h6eGJ6dGNiZ2VlZ3B0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="Java Coding Gif">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" alt="Coding Gif">
 </p>
 
 ## 🛠️ Мой стек технологий
@@ -15,8 +15,12 @@
 **📧 Mail.ru**: [nilsson_nicholas@mail.ru](mailto:nilsson_nicholas@mail.ru)  
 **🎮 Discord**: `@nilsson03`        
 
-## 📊 Статистика GitHub
+## 📊 Активность
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilsson03&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsson03&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=nilsson03&show_icons=true&theme=dracula" alt="Статистика">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsson03&layout=compact&theme=dracula" alt="Языки">
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nilsson03&color=blue&style=flat" alt="Просмотры профиля">
+</p>
